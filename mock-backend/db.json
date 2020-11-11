@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "nome": "Clever",
+            "mensagem": "Meu blog pessoal ein galera! uhu"
+        },
+        {
+            "id": 2,
+            "nome": "Marta",
+            "mensagem": "O que vocês acham sobre a eleição?"
+        },
+        {
+            "id": 3,
+            "nome": "Mario",
+            "mensagem": "Estou pensando no que cozinhar para comer..."
+        }
+    ]
+}
